@@ -1,2 +1,1 @@
-# tindog
-my third website 
+TinDog Starting Files
